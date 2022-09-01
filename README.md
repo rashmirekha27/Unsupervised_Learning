@@ -1,4 +1,4 @@
-# unsupervised_learning
+# Unsupervised_learning
 Unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Created a visualization that shares findings. provided with raw data, so you’ll first need to process it to fit the machine learning models. You will use several clustering algorithms to explore whether the patients can be placed into distinct groups. Then, you’ll create a visualization to share your findings with your team and other key stakeholders.
 
 Part 1: Prepare the Data, dropped nulls
